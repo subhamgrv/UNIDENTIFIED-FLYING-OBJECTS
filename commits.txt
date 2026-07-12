@@ -9,3 +9,4 @@ commit for July 08
 commit for July 09
 commit for July 10
 commit for July 11
+commit for July 12
